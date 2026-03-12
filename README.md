@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 2. Prepare Checkpoints
 
-- **Base Model**: `GSAI-ML/LLaDA-8B-Instruct` (downloaded automatically or specify local path).
+- **Base Model**: `GSAI-ML/LLaDA-1.5` (downloaded automatically or specify local path).
 - **PRR Head Checkpoint**: You need the trained PRR Head checkpoint (e.g., `head_checkpoint.pt`).
 
 ### 3. Run Inference

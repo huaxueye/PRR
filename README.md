@@ -28,7 +28,7 @@ This repository contains the inference implementation for **Progressive Refineme
 ### 1. Installation
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/huaxueye/PRR.git
 cd PRR
 pip install -r requirements.txt
 ```

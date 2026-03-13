@@ -69,10 +69,17 @@ python benchmark_humaneval.py --head_path /path/to/head.pt --gpus 0
 
 Apache License 2.0
 ## Citation
+
 If you find PRR helpful in your research, please cite:
-@article{wan2026progressive,
+
+```bibtex
+@misc{wan2026progressive,
   title={Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding},
   author={Wan, Lipeng and Gu, Jianhui and Ma, Junjie and Huang, Jianguo and Sun, Shiguang and Li, Siyuan and Lan, Xuguang},
-  journal={arXiv preprint arXiv:2603.04514},
-  year={2026}
+  year={2026},
+  eprint={2603.04514},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2603.04514}
 }
+```
